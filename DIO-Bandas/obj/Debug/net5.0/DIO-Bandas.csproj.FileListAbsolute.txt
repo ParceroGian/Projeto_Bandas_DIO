@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.AssemblyInfo.cs
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.exe
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.deps.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.runtimeconfig.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\ref\DIO-Bandas.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\bin\Debug\net5.0\DIO-Bandas.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\ref\DIO-Bandas.dll
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.pdb
+C:\Users\User\OneDrive\Programaçao-Nuvem\Projeto_Bandas_DIO\DIO-Bandas\obj\Debug\net5.0\DIO-Bandas.genruntimeconfig.cache
